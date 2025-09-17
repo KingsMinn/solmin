@@ -3,6 +3,7 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "/00_Files",
-  "spellcheck": false
+  "attachmentFolderPath": "50_Meta/Attachments",
+  "spellcheck": false,
+  "showIndentGuide": false
 }

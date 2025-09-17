@@ -8,73 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e0ffc8efbf95964",
+            "id": "ab9b064f856f795e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "20_Areas/Learn-Programming/250916-meowhere.md",
-                "mode": "source",
-                "source": false
+                "url": "https://notebooklm.google.com/notebook/d0ad8d91-f78c-41a5-a811-9060e6d40a49",
+                "title": "컴퓨터공학 - NotebookLM",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "250916-meowhere"
+              "icon": "globe-2",
+              "title": "컴퓨터공학 - NotebookLM"
             }
           },
           {
-            "id": "d58436ed69dfe28b",
+            "id": "a2bc9ce3fa429be4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "20_Areas/Learn-Programming/250917-Problem-of-CSS-in-JS-with-SSR.md",
-                "mode": "source",
-                "source": false
+                "url": "https://www.google.com/search?q=network+sniffing+snipping&sca_esv=fc1f47d9dc5800d6&sxsrf=AE3TifMPbmEY2CsWhnY5yIPua2A1a6YX2A%3A1758109528064&ei=WJ_KaPu_A-3g2roPhsKMwAk&ved=0ahUKEwj7y5Wv3N-PAxVtsFYBHQYhA5gQ4dUDCBA&uact=5&oq=network+sniffing+snipping&gs_lp=Egxnd3Mtd2l6LXNlcnAiGW5ldHdvcmsgc25pZmZpbmcgc25pcHBpbmdI-R5QnwJYkx5wAngBkAEBmAGNA6AB_hmqAQcwLjcuMi41uAEDyAEA-AEBmAIIoALHDMICChAAGLADGNYEGEfCAgQQIxgnwgIFEAAYgATCAggQABiABBjLAcICBBAAGB7CAgUQIRigAcICBBAhGBWYAwCIBgGQBgqSBwkyLjIuMi4xLjGgB_83sgcJMC4yLjIuMS4xuAfADMIHBTIuNC4yyAcR&sclient=gws-wiz-serp",
+                "title": "network sniffing snipping - Google 검색",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "250917-Problem-of-CSS-in-JS-with-SSR"
+              "icon": "globe-2",
+              "title": "network sniffing snipping - Google 검색"
             }
           },
           {
-            "id": "a5628976b5882a19",
+            "id": "bfd7f939680bfa23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "20_Areas/Learn-Programming/250916-meowhere-interactive-badge.md",
-                "mode": "source",
-                "source": false
+                "url": "https://gemini.google.com/app/1fba8cc89eb23508?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_source=google&utm_medium=paid-media&utm_medium=cpc&utm_campaign=bkws&utm_campaign=2024koKR_gemfeb&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20437330476&gbraid=0AAAAApk5BhkSfpgjvx_qSKM-yPE2sWx5k&gclid=EAIaIQobChMIiqrbw7HfjwMV7cZMAh0OlwNgEAAYASAAEgLmk_D_BwE",
+                "title": "Google Gemini",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "250916-meowhere-interactive-badge"
+              "icon": "globe-2",
+              "title": "Google Gemini"
             }
           },
           {
-            "id": "06cd07e7c5dfa02f",
+            "id": "0a2030ac3cb32d8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "20_Areas/Learn-Programming/250917-R3F.md",
-                "mode": "source",
-                "source": false
+                "url": "https://www.notion.so/smin2049/26f06b348e9780899a30d68ae6bb9939#26f06b348e9780899a30d68ae6bb9939",
+                "title": "개선됨",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "250917-R3F"
+              "icon": "globe-2",
+              "title": "개선됨"
             }
           },
           {
-            "id": "4d1ddf18fe01a802",
+            "id": "cda3f0c30960282b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Areas/Learn-Programming/250917-Regex.md",
+                "file": "20_Areas/Learn-Programming/250917-Fandom-K.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250917-Regex"
+              "title": "250917-Fandom-K"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "next",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -132,8 +132,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +149,7 @@
         "dimension": 30.549898167006113,
         "children": [
           {
-            "id": "02b9c12613464cc9",
+            "id": "24583d0b8fa2bb4f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -180,12 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "20_Areas/Learn-Programming/250917-Fandom-K.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 250917-Fandom-K"
             }
           },
           {
@@ -235,7 +235,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "20_Areas/Learn-Programming/250917-Fandom-K.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -244,7 +245,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 250917-Fandom-K"
             }
           }
         ]
@@ -260,24 +261,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20_Areas/Learn-Programming/250917-Fandom-K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 250917-Fandom-K"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 279.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -289,35 +292,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02b9c12613464cc9",
+  "active": "cda3f0c30960282b",
   "lastOpenFiles": [
-    "20_Areas/Learn-Programming/250917-Regex.md",
-    "20_Areas/Learn-Programming/250917-R3F.md",
-    "20_Areas/Learn-Programming/250917-DOM-tree.md",
-    "20_Areas/Learn-Obsidian",
-    "20_Areas/Learn-Programming/250917-Problem-of-CSS-in-JS-with-SSR.md",
-    "20_Areas/Learn-Programming/250916-meowhere-interactive-badge.md",
-    "20_Areas/Learn-Programming/250917-ThreeJs.md",
-    "20_Areas/Learn-Programming/CSS-in-JS.md",
+    "20_Areas/Learn-Programming/250917-Semaphore.md",
+    "20_Areas/Learn-Programming/250917-Mutex.md",
+    "20_Areas/Learn-Programming/250917-Fandom-K.md",
     "20_Areas/Learn-Programming/250916-meowhere.md",
-    "20_Areas/Learn-Programming/250917-CRP.md",
-    "20_Areas/Learn-Programming/250917-FOUC.md",
-    "20_Areas/Learn-Programming/250917-WebGL.md",
-    "50_Meta/Templates/T_Common.md",
+    "20_Areas/Learn-Programming/250917-meowhere-ai-code-review.md",
+    "20_Areas/Learn-Programming/250917-meowhere-design-system-and-workflow.md",
+    "20_Areas/Learn-Programming/250917-XSS.md",
+    "20_Areas/Learn-Programming/250917-Session-hijacking.md",
+    "20_Areas/Learn-Programming/250917-Network-sniffing.md",
+    "20_Areas/Learn-Programming/250917-Network.md",
+    "20_Areas/Learn-Programming/250917-TCP-UDP-TLS.md",
+    "20_Areas/Learn-Programming/250917-TLS.md",
+    "20_Areas/Learn-Programming/250917-UDP.md",
+    "20_Areas/Learn-Programming/250917-TCP.md",
+    "20_Areas/Learn-Programming/250917-3-way-handshake.md",
+    "20_Areas/Learn-Programming/250917-SYN-Flooding.md",
+    "20_Areas/Learn-Programming/DoS.md",
+    "20_Areas/Learn-Programming/250917-4-way-handshake.md",
+    "20_Areas/Learn-Programming/250917-Next-js-caching-system.md",
+    "20_Areas/Learn-Programming/250917-next-js-severless.md",
+    "20_Areas/Learn-Programming/250917-Next-js.md",
+    "20_Areas/Learn-Programming/250917-meowhere-UI-UX.md",
+    "20_Areas/Learn-Programming/250917-unstable-cache.md",
+    "20_Areas/Learn-Programming/250917-meowhere-unstable-cache.md",
+    "20_Areas/Learn-Programming/250917-Idempotence.md",
+    "20_Areas/Learn-Programming/250917-Deadlock.md",
     "20_Areas/Learn-Programming/Base_Learn-Programming.base",
-    "Untitled.md",
-    "Untitled 1.md",
-    "20_Areas/Learn-Programming/250916_hello.md",
-    "50_Meta/Templates/Untitled.md",
-    "20_Areas/Learn-Programming/hello.md",
-    "Untitledㅇ.md",
+    "20_Areas/Learn-Obsidian",
     "20_Areas/Learn-Programming",
     "50_Meta/Templates",
     "50_Meta",
     "40_Archives",
     "30_Resources",
     "20_Areas",
-    "10_Projects",
-    "Welcome.md"
+    "10_Projects"
   ]
 }

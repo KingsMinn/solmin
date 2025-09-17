@@ -4,6 +4,18 @@ views:
     filters:
       and:
         - file.folder == "20_Areas/Learn-Programming"
+    order:
+      - file.name
+      - title
+      - tags
     sort:
+      - property: tags
+        direction: ASC
+      - property: title
+        direction: ASC
       - property: file.name
         direction: ASC
+    columnSize:
+      file.name: 130
+      note.title: 325
+      note.tags: 261
