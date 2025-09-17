@@ -27,12 +27,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.google.com/search?q=network+sniffing+snipping&sca_esv=fc1f47d9dc5800d6&sxsrf=AE3TifMPbmEY2CsWhnY5yIPua2A1a6YX2A%3A1758109528064&ei=WJ_KaPu_A-3g2roPhsKMwAk&ved=0ahUKEwj7y5Wv3N-PAxVtsFYBHQYhA5gQ4dUDCBA&uact=5&oq=network+sniffing+snipping&gs_lp=Egxnd3Mtd2l6LXNlcnAiGW5ldHdvcmsgc25pZmZpbmcgc25pcHBpbmdI-R5QnwJYkx5wAngBkAEBmAGNA6AB_hmqAQcwLjcuMi41uAEDyAEA-AEBmAIIoALHDMICChAAGLADGNYEGEfCAgQQIxgnwgIFEAAYgATCAggQABiABBjLAcICBBAAGB7CAgUQIRigAcICBBAhGBWYAwCIBgGQBgqSBwkyLjIuMi4xLjGgB_83sgcJMC4yLjIuMS4xuAfADMIHBTIuNC4yyAcR&sclient=gws-wiz-serp",
-                "title": "network sniffing snipping - Google 검색",
+                "url": "https://doohyeong.tistory.com/255",
+                "title": "Doo :: Feature-Sliced Design(FSD): 프론트엔드 아키텍처의 새로운 접근법",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "network sniffing snipping - Google 검색"
+              "title": "Doo :: Feature-Sliced Design(FSD): 프론트엔드 아키텍처의 새로운 접근법"
             }
           },
           {
@@ -50,35 +50,21 @@
             }
           },
           {
-            "id": "0a2030ac3cb32d8f",
+            "id": "652bbd92565fb3a6",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.notion.so/smin2049/26f06b348e9780899a30d68ae6bb9939#26f06b348e9780899a30d68ae6bb9939",
-                "title": "개선됨",
+                "url": "https://www.notion.so/smin2049/27106b348e9780008bfbf803c677c306",
+                "title": "@Yesterday 10:28 PM",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "개선됨"
-            }
-          },
-          {
-            "id": "cda3f0c30960282b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Areas/Learn-Programming/250917-Fandom-K.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "250917-Fandom-K"
+              "title": "@Yesterday 10:28 PM"
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -179,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Areas/Learn-Programming/250917-Fandom-K.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 250917-Fandom-K"
+              "title": "Outline"
             }
           },
           {
@@ -227,7 +212,7 @@
       {
         "id": "cfe92027889835f1",
         "type": "tabs",
-        "dimension": 30.75356415478615,
+        "dimension": 25.45824847250509,
         "children": [
           {
             "id": "45c513965be0fd66",
@@ -235,7 +220,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Areas/Learn-Programming/250917-Fandom-K.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +229,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 250917-Fandom-K"
+              "title": "Backlinks"
             }
           }
         ]
@@ -253,7 +237,7 @@
       {
         "id": "5e251cb963036e9f",
         "type": "tabs",
-        "dimension": 38.69653767820774,
+        "dimension": 43.9918533604888,
         "children": [
           {
             "id": "a58e21dc61449119",
@@ -261,20 +245,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Areas/Learn-Programming/250917-Fandom-K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 250917-Fandom-K"
+              "title": "Outgoing links"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,11 +274,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cda3f0c30960282b",
+  "active": "652bbd92565fb3a6",
   "lastOpenFiles": [
+    "20_Areas/Learn-Programming/250917-Wikied-FE-Architecture.md",
+    "20_Areas/Learn-Programming/250917-Wikied-Git-conflicts.md",
+    "20_Areas/Learn-Programming/250917-Wikied.md",
+    "20_Areas/Learn-Programming/250917-Wikied-Styled-Components.md",
+    "20_Areas/Learn-Programming/250917-Wikied-UI-UX-Optimization.md",
+    "20_Areas/Learn-Programming/전역 상태 관리.md",
+    "20_Areas/Learn-Programming/250917-Fandom-K.md",
+    "20_Areas/Learn-Programming/250917-Fandom-K-UI-UX.md",
+    "20_Areas/Learn-Programming/250917-Fandom-K-Network-management.md",
+    "20_Areas/Learn-Programming/250917-Fandom-K-FE-Architecture.md",
+    "20_Areas/Learn-Programming/250917-Fandom-K-rendering-pipeline.md",
     "20_Areas/Learn-Programming/250917-Semaphore.md",
     "20_Areas/Learn-Programming/250917-Mutex.md",
-    "20_Areas/Learn-Programming/250917-Fandom-K.md",
     "20_Areas/Learn-Programming/250916-meowhere.md",
     "20_Areas/Learn-Programming/250917-meowhere-ai-code-review.md",
     "20_Areas/Learn-Programming/250917-meowhere-design-system-and-workflow.md",
@@ -310,16 +302,6 @@
     "20_Areas/Learn-Programming/250917-TCP.md",
     "20_Areas/Learn-Programming/250917-3-way-handshake.md",
     "20_Areas/Learn-Programming/250917-SYN-Flooding.md",
-    "20_Areas/Learn-Programming/DoS.md",
-    "20_Areas/Learn-Programming/250917-4-way-handshake.md",
-    "20_Areas/Learn-Programming/250917-Next-js-caching-system.md",
-    "20_Areas/Learn-Programming/250917-next-js-severless.md",
-    "20_Areas/Learn-Programming/250917-Next-js.md",
-    "20_Areas/Learn-Programming/250917-meowhere-UI-UX.md",
-    "20_Areas/Learn-Programming/250917-unstable-cache.md",
-    "20_Areas/Learn-Programming/250917-meowhere-unstable-cache.md",
-    "20_Areas/Learn-Programming/250917-Idempotence.md",
-    "20_Areas/Learn-Programming/250917-Deadlock.md",
     "20_Areas/Learn-Programming/Base_Learn-Programming.base",
     "20_Areas/Learn-Obsidian",
     "20_Areas/Learn-Programming",
