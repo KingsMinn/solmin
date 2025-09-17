@@ -8,16 +8,78 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02b9c12613464cc9",
+            "id": "1e0ffc8efbf95964",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20_Areas/Learn-Programming/250916-meowhere.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "250916-meowhere"
+            }
+          },
+          {
+            "id": "d58436ed69dfe28b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Areas/Learn-Programming/250917-Problem-of-CSS-in-JS-with-SSR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250917-Problem-of-CSS-in-JS-with-SSR"
+            }
+          },
+          {
+            "id": "a5628976b5882a19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Areas/Learn-Programming/250916-meowhere-interactive-badge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250916-meowhere-interactive-badge"
+            }
+          },
+          {
+            "id": "06cd07e7c5dfa02f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Areas/Learn-Programming/250917-R3F.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250917-R3F"
+            }
+          },
+          {
+            "id": "4d1ddf18fe01a802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Areas/Learn-Programming/250917-Regex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250917-Regex"
             }
           }
-        ]
+        ],
+        "currentTab": 4,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -70,11 +132,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 272.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "a85811318daa566b",
@@ -83,36 +147,16 @@
       {
         "id": "4612577cf94b63bd",
         "type": "tabs",
+        "dimension": 30.549898167006113,
         "children": [
           {
-            "id": "45c513965be0fd66",
+            "id": "02b9c12613464cc9",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "a58e21dc61449119",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -143,25 +187,137 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "2b63e2021e03828c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "69c3362bff2b01fe",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "7d7a32aec06661dc",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "search",
+              "title": "Smart Lookup"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cfe92027889835f1",
+        "type": "tabs",
+        "dimension": 30.75356415478615,
+        "children": [
+          {
+            "id": "45c513965be0fd66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e251cb963036e9f",
+        "type": "tabs",
+        "dimension": 38.69653767820774,
+        "children": [
+          {
+            "id": "a58e21dc61449119",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "02b9c12613464cc9",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "20_Areas/Learn-Programming/250917-Regex.md",
+    "20_Areas/Learn-Programming/250917-R3F.md",
+    "20_Areas/Learn-Programming/250917-DOM-tree.md",
+    "20_Areas/Learn-Obsidian",
+    "20_Areas/Learn-Programming/250917-Problem-of-CSS-in-JS-with-SSR.md",
+    "20_Areas/Learn-Programming/250916-meowhere-interactive-badge.md",
+    "20_Areas/Learn-Programming/250917-ThreeJs.md",
+    "20_Areas/Learn-Programming/CSS-in-JS.md",
+    "20_Areas/Learn-Programming/250916-meowhere.md",
+    "20_Areas/Learn-Programming/250917-CRP.md",
+    "20_Areas/Learn-Programming/250917-FOUC.md",
+    "20_Areas/Learn-Programming/250917-WebGL.md",
+    "50_Meta/Templates/T_Common.md",
+    "20_Areas/Learn-Programming/Base_Learn-Programming.base",
+    "Untitled.md",
+    "Untitled 1.md",
+    "20_Areas/Learn-Programming/250916_hello.md",
+    "50_Meta/Templates/Untitled.md",
+    "20_Areas/Learn-Programming/hello.md",
+    "Untitledㅇ.md",
+    "20_Areas/Learn-Programming",
+    "50_Meta/Templates",
+    "50_Meta",
+    "40_Archives",
+    "30_Resources",
+    "20_Areas",
+    "10_Projects",
+    "Welcome.md"
+  ]
 }

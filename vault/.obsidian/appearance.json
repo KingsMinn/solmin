@@ -1,1 +1,8 @@
-{}
+{
+  "theme": "obsidian",
+  "interfaceFontFamily": "Pretendard",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "common"
+  ]
+}

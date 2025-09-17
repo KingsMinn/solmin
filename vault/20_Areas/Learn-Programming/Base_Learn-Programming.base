@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "20_Areas/Learn-Programming"
+    sort:
+      - property: file.name
+        direction: ASC
