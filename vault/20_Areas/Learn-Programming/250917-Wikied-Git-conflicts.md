@@ -9,6 +9,8 @@ published: false
 aliases: []
 ---
 # 협업 및 버전 관리: [[Git 히스토리 충돌]] 해결
+[깃허브](https://github.com/KingsMinn/Wikied-Distribution?tab=readme-ov-file#%ED%98%91%EC%97%85-%EB%B0%8F-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-git-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%B6%A9%EB%8F%8C-%ED%95%B4%EA%B2%B0)
+
 - **문제 정의:** 팀원의 로컬 Git 작업 오류로 인해, 공유 브랜치(`develop`)의 [[HEAD]]가 이전 [[커밋]]으로 잘못 덮어씌워져 최신 기능 코드의 일부가 히스토리에서 보이지 않게 되는 긴급 상황이 발생함.
 - **해결 과정:**
     - **대안 분석:**

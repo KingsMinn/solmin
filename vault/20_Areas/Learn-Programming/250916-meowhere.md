@@ -7,6 +7,9 @@ published: false
 aliases: []
 ---
 # 어디가냥 프로젝트 정리
+![[Pasted image 20250918192143.png]]
+https://meowhere.vercel.app/
+
 ## 프로젝트 개요
 ### 역할
 팀장, 프론트엔드, 프로덕트 디자인

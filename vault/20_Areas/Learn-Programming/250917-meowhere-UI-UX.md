@@ -9,6 +9,9 @@ published: false
 aliases: []
 ---
 # UI/UX 설계: 파편화된 경험 통합
+[깃허브](https://github.com/KingsMinn/Meowhere-Deploy?tab=readme-ov-file#uiux-%EC%84%A4%EA%B3%84-%ED%8C%8C%ED%8E%B8%ED%99%94%EB%90%9C-%EA%B2%BD%ED%97%98-%ED%86%B5%ED%95%A9)
+![[Pasted image 20250918192214.png]]
+
 - 문제 정의: 기존 체험 탐색 UI는 지역, 가격, 카테고리 필터가 여러 페이지에 분산되어 있어, 사용자가 원하는 정보를 찾기 위해 불필요한 탐색을 반복해야 하는 UX 문제가 존재함.
 - 해결 과정:
     - 대안 분석: Airbnb, 여기어때 등 주요 서비스의 UX 패턴을 분석하여, 사용자가 어떤 페이지에 있든 일관된 탐색 경험을 제공하는 것이 중요하다고 결론 내림.

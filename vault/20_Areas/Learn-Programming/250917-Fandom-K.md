@@ -7,6 +7,8 @@ published: false
 aliases: []
 ---
 # Fandom-K 프로젝트 정리
+![[room-ps 1.png]]
+https://fandom-k-eight.vercel.app/
 ## 프로젝트 개요
 ### 역할
 프론트엔드, 프로덕트 디자인

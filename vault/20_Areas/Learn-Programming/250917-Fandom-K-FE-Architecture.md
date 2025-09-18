@@ -9,6 +9,8 @@ published: false
 aliases: []
 ---
 # 프론트엔드 아키텍처: 확장 가능한 UI 시스템 설계
+[깃허브](https://github.com/KingsMinn/Fandom-K?tab=readme-ov-file#%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%99%95%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-ui-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84)
+
 - **문제 정의:** 프로젝트 전반에 걸쳐 모달과 타이포그래피, [[스켈레톤]] 사용이 잦으나, 일관된 규칙이 없어 [[props drilling]], 코드 중복, 일관적이지 않은 UI 등의 문제가 발생함. Figma 컴포넌트 역시 체계 없이 분리되어 있었음.
 - **해결 과정:**
     - **대안 분석:** 모달 상태 관리를 위해 [[Redux]], [[Zustand]], [[Context API]]를 검토함. 프로젝트 규모를 고려했을 때 Redux는 과도하며, `Context API`가 별도의 라이브러리 없이 [[React]] 자체로 문제를 해결할 수 있는 가장 합리적인 방안이라 판단함.

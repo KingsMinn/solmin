@@ -22,34 +22,6 @@
             }
           },
           {
-            "id": "a2bc9ce3fa429be4",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://doohyeong.tistory.com/255",
-                "title": "Doo :: Feature-Sliced Design(FSD): 프론트엔드 아키텍처의 새로운 접근법",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Doo :: Feature-Sliced Design(FSD): 프론트엔드 아키텍처의 새로운 접근법"
-            }
-          },
-          {
-            "id": "bfd7f939680bfa23",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/1fba8cc89eb23508?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_source=google&utm_medium=paid-media&utm_medium=cpc&utm_campaign=bkws&utm_campaign=2024koKR_gemfeb&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20437330476&gbraid=0AAAAApk5BhkSfpgjvx_qSKM-yPE2sWx5k&gclid=EAIaIQobChMIiqrbw7HfjwMV7cZMAh0OlwNgEAAYASAAEgLmk_D_BwE",
-                "title": "Google Gemini",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Google Gemini"
-            }
-          },
-          {
             "id": "652bbd92565fb3a6",
             "type": "leaf",
             "state": {
@@ -62,9 +34,65 @@
               "icon": "globe-2",
               "title": "@Yesterday 10:28 PM"
             }
+          },
+          {
+            "id": "0038b808b9091cc9",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9A%B0%EB%A6%AC%EA%B0%80-css-in-js%EC%99%80-%ED%97%A4%EC%96%B4%EC%A7%80%EB%8A%94-%EC%9D%B4%EC%9C%A0-a2e726d6ace6",
+                "title": "(번역) 우리가 CSS-in-JS와 헤어지는 이유. 원문… | by 한정(Han Jung) | Medium",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "(번역) 우리가 CSS-in-JS와 헤어지는 이유. 원문… | by 한정(Han Jung) | Medium"
+            }
+          },
+          {
+            "id": "ee3da9aeed811fcd",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:5cdcd124-84d0-4ffa-9071-2afb3977d05c?comment_id=102bc3a1-7f90-4a45-96ca-c24835b7f6e9",
+                "title": "이력서2차(김승민님) - Adobe cloud storage",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "이력서2차(김승민님) - Adobe cloud storage"
+            }
+          },
+          {
+            "id": "70c553f83f53d857",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/4b683cfbd1b8d836?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_source=google&utm_medium=paid-media&utm_medium=cpc&utm_campaign=bkws&utm_campaign=2024koKR_gemfeb&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20437330476&gbraid=0AAAAApk5BhkSfpgjvx_qSKM-yPE2sWx5k&gclid=EAIaIQobChMIiqrbw7HfjwMV7cZMAh0OlwNgEAAYASAAEgLmk_D_BwE",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
+          },
+          {
+            "id": "bfd7f939680bfa23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Areas/Learn-Obsidian/250917-How-to-use-Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250917-How-to-use-Obsidian"
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -122,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5026054382324,
-    "collapsed": true
+    "width": 272.5026054382324
   },
   "right": {
     "id": "a85811318daa566b",
@@ -132,10 +159,10 @@
       {
         "id": "4612577cf94b63bd",
         "type": "tabs",
-        "dimension": 30.549898167006113,
+        "dimension": 41.54786150712831,
         "children": [
           {
-            "id": "24583d0b8fa2bb4f",
+            "id": "fb5b8cfac956d952",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -165,12 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "20_Areas/Learn-Obsidian/250917-How-to-use-Obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 250917-How-to-use-Obsidian"
             }
           },
           {
@@ -212,7 +240,7 @@
       {
         "id": "cfe92027889835f1",
         "type": "tabs",
-        "dimension": 25.45824847250509,
+        "dimension": 28.615071283095723,
         "children": [
           {
             "id": "45c513965be0fd66",
@@ -220,6 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20_Areas/Learn-Obsidian/250917-How-to-use-Obsidian.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +258,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 250917-How-to-use-Obsidian"
             }
           }
         ]
@@ -237,7 +266,7 @@
       {
         "id": "5e251cb963036e9f",
         "type": "tabs",
-        "dimension": 43.9918533604888,
+        "dimension": 29.83706720977597,
         "children": [
           {
             "id": "a58e21dc61449119",
@@ -245,18 +274,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20_Areas/Learn-Obsidian/250917-How-to-use-Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 250917-How-to-use-Obsidian"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 374.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,35 +305,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "652bbd92565fb3a6",
+  "active": "bfd7f939680bfa23",
   "lastOpenFiles": [
-    "20_Areas/Learn-Programming/250917-Wikied-FE-Architecture.md",
-    "20_Areas/Learn-Programming/250917-Wikied-Git-conflicts.md",
+    "20_Areas/Learn-Obsidian/250917-Tag-strategy.md",
+    "20_Areas/Learn-Obsidian/250917-How-to-use-Obsidian.md",
+    "20_Areas/Learn-Obsidian/250917-File-naming.md",
+    "20_Areas/Learn-Obsidian/250917-Atomic-note.md",
+    "20_Areas/Learn-Obsidian/250917-LYT.md",
+    "20_Areas/Learn-Obsidian/250917-How-to-use-transclusion.md",
+    "20_Areas/Learn-Obsidian/250917-Folder-vs-tag.md",
+    "20_Areas/Learn-Obsidian/250917-Block-reference.md",
+    "20_Areas/Learn-Programming/250917-meowhere-design-system-and-workflow.md",
+    "50_Meta/Attachments/Pasted image 20250918192233.png",
+    "50_Meta/Attachments/Pasted image 20250918192229.png",
+    "20_Areas/Learn-Programming/250916-meowhere.md",
+    "20_Areas/Learn-Programming/250917-meowhere-UI-UX.md",
+    "50_Meta/Attachments/Pasted image 20250918192214.png",
+    "20_Areas/Learn-Programming/250917-meowhere-unstable-cache.md",
+    "20_Areas/Learn-Programming/250916-meowhere-interactive-badge.md",
+    "50_Meta/Attachments/Pasted image 20250918192158.png",
+    "50_Meta/Attachments/Pasted image 20250918192143.png",
     "20_Areas/Learn-Programming/250917-Wikied.md",
-    "20_Areas/Learn-Programming/250917-Wikied-Styled-Components.md",
+    "50_Meta/Attachments/Pasted image 20250918192043.png",
     "20_Areas/Learn-Programming/250917-Wikied-UI-UX-Optimization.md",
-    "20_Areas/Learn-Programming/전역 상태 관리.md",
+    "50_Meta/Attachments/Frame 1171276243 1.png",
+    "50_Meta/Attachments/Frame 1171276243.png",
     "20_Areas/Learn-Programming/250917-Fandom-K.md",
+    "20_Areas/Learn-Programming/250917-Fandom-K-rendering-pipeline.md",
+    "50_Meta/Attachments/download.webp",
     "20_Areas/Learn-Programming/250917-Fandom-K-UI-UX.md",
+    "50_Meta/Attachments/Group 1171276171.png",
     "20_Areas/Learn-Programming/250917-Fandom-K-Network-management.md",
     "20_Areas/Learn-Programming/250917-Fandom-K-FE-Architecture.md",
-    "20_Areas/Learn-Programming/250917-Fandom-K-rendering-pipeline.md",
-    "20_Areas/Learn-Programming/250917-Semaphore.md",
-    "20_Areas/Learn-Programming/250917-Mutex.md",
-    "20_Areas/Learn-Programming/250916-meowhere.md",
+    "20_Areas/Learn-Programming/250917-Wikied-Styled-Components.md",
+    "20_Areas/Learn-Programming/250917-Wikied-Git-conflicts.md",
+    "20_Areas/Learn-Programming/250917-Wikied-FE-Architecture.md",
+    "20_Areas/Learn-Programming/250918-CSS-War.md",
     "20_Areas/Learn-Programming/250917-meowhere-ai-code-review.md",
-    "20_Areas/Learn-Programming/250917-meowhere-design-system-and-workflow.md",
-    "20_Areas/Learn-Programming/250917-XSS.md",
-    "20_Areas/Learn-Programming/250917-Session-hijacking.md",
-    "20_Areas/Learn-Programming/250917-Network-sniffing.md",
-    "20_Areas/Learn-Programming/250917-Network.md",
-    "20_Areas/Learn-Programming/250917-TCP-UDP-TLS.md",
-    "20_Areas/Learn-Programming/250917-TLS.md",
-    "20_Areas/Learn-Programming/250917-UDP.md",
-    "20_Areas/Learn-Programming/250917-TCP.md",
-    "20_Areas/Learn-Programming/250917-3-way-handshake.md",
-    "20_Areas/Learn-Programming/250917-SYN-Flooding.md",
+    "20_Areas/Learn-Programming/250918-Front-end.md",
     "20_Areas/Learn-Programming/Base_Learn-Programming.base",
+    "50_Meta/Attachments",
     "20_Areas/Learn-Obsidian",
     "20_Areas/Learn-Programming",
     "50_Meta/Templates",

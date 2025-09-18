@@ -9,6 +9,7 @@ published: false
 aliases: []
 ---
 # 협업 프로세스: AI를 활용한 코드 품질 관리
+[깃허브](https://github.com/KingsMinn/Meowhere-Deploy?tab=readme-ov-file#%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-ai%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%93%9C-%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC)
 **문제 정의:** 팀 프로젝트에서 코드 컨벤션 위반이나 사소한 오타 같은 휴먼 에러는 협업 효율을 저해하는 원인 중 하나임. 코드 리뷰 과정에서 이를 자동으로 피드백해주는 시스템이 필요하다고 판단함.
 - **해결 과정:**
     - **최종 선택:** `GitHub`내의 `Gemini Code Assist` 코드 리뷰 기능을 실험적으로 도입함. 팀의 코드 컨벤션과 규칙을 프롬프트로 제공하고, Pull Request 발생 시 자동으로 코드 품질을 검사하도록 설정함.

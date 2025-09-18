@@ -9,6 +9,8 @@ published: false
 aliases: []
 ---
 # 프론트엔드 아키텍처: 인증 및 상태 관리 시스템 설계
+[깃허브](https://github.com/KingsMinn/Wikied-Distribution?tab=readme-ov-file#%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9D%B8%EC%A6%9D-%EB%B0%8F-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84)
+
 - **문제 정의:** 3주라는 짧은 개발 기간 내에 자체 로그인 시스템과 안전한 인증 시스템을 구축해야 했음. 또한 페이지 새로고침 시에도 사용자 로그인 상태가 유지되어야 했으며, 여러 컴포넌트에서 사용자 데이터를 공유하기 위한 효율적인 [[전역 상태 관리]] 전략이 필요했음.
 - **해결 과정:**
     - **인증 시스템 대안 분석:**

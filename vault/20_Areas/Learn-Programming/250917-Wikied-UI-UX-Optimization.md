@@ -9,6 +9,9 @@ published: false
 aliases: []
 ---
 # UI/UX 및 최적화: 사용자 경험 디테일 개선
+[깃허브](https://github.com/KingsMinn/Wikied-Distribution?tab=readme-ov-file#uiux-%EB%B0%8F-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B2%BD%ED%97%98-%EB%94%94%ED%85%8C%EC%9D%BC-%EA%B0%9C%EC%84%A0)
+![[Frame 1171276243 1.png]]
+
 - **문제 정의:** 서비스의 첫인상을 결정하는 [[랜딩 페이지]]의 경험, 사소하지만 반복적인 불편함을 유발하는 UI, 그리고 불필요한 리소스로 인한 성능 저하 등 개선이 필요했음.
 - **해결 과정:**
     - **인터랙티브 랜딩 페이지:** '인물 위키'라는 생소한 개념을 친근하게 전달하기 위해, [[Matter.js]]의 물리 엔진과 직접 제작한 [[Lottie]] 애니메이션을 결합하여 사용자의 인터랙션에 반응하는 동적인 랜딩 페이지를 단독으로 개발함.

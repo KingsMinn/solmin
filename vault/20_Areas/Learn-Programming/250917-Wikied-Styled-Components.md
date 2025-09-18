@@ -8,12 +8,14 @@ tags:
 published: false
 aliases: []
 ---
-# [[CSS-in-JS]]: [[Styled Components]]와 [[SSR]]의 상충 관계
+# [[250918-CSS-in-JS]]: [[Styled Components]]와 [[SSR]]의 상충 관계
+[깃허브](https://github.com/KingsMinn/Wikied-Distribution?tab=readme-ov-file#css-in-js-styled-components%EC%99%80-ssr%EC%9D%98-%EC%83%81%EC%B6%A9-%EA%B4%80%EA%B3%84)
+
 - **문제 정의:** 팀원 모두가 `Styled Components`에 익숙했지만, CSS-in-JS [[라이브러리]]의 [[런타임]] 특성은 [[Next.js]]의 SSR 환경에서 초기 로딩 시 스타일이 적용되지 않는 깜빡임 현상과 성능 저하를 유발하는 기술적 문제가 있었음.
 - **해결 과정:**
     - **대안 분석:**
         1. 팀의 학습 곡선을 고려하여 익숙한 `Styled Components`를 유지하고 문제를 해결하는 방법
-        2. [[Tailwind CSS]]와 같이 Next.js와 더 잘 맞는 다른 스타일링 솔루션을 도입하는 방법
+        2. [[250918-Tailwind|Tailwind CSS]]와 같이 Next.js와 더 잘 맞는 다른 스타일링 솔루션을 도입하는 방법
         
         프로젝트의 짧은 기간을 고려하여 1을 선택하되, 문제 해결 과정을 통해 팀의 기술적 이해도를 높이는 것을 목표로 함.
         

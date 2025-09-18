@@ -9,6 +9,10 @@ published: false
 aliases: []
 ---
 # 디자인 시스템 & 워크플로우 최적화
+[깃허브](https://github.com/KingsMinn/Meowhere-Deploy?tab=readme-ov-file#%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C--%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%B5%9C%EC%A0%81%ED%99%94)
+![[Pasted image 20250918192229.png]]
+![[Pasted image 20250918192233.png]]
+
 - **문제 정의:** Figma 프로젝트와 개발자 코드가 분리되어 UI 일관성이 깨지고, SVG 아이콘 관리 비효율, 일관성 없는 애니메이션 등 개발자 경험과 사용자 경험 양쪽에서 문제가 발생함.
 - **해결 과정:**
     - **Z-Index 시스템 설계:** 플로팅 UI 요소들의 계층 구조를 명확히 정의하고, 100단위의 간격을 둔 전역 `z-index` 시스템을 도입하여 충돌 문제를 원천적으로 해결함.

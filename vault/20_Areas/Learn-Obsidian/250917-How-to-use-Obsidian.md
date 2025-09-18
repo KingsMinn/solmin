@@ -3,6 +3,8 @@ title: 옵시디언 사용법
 date: 2025-09-17
 updated: 2025-09-17
 tags:
+  - status/growing
+  - type/obsidian
 published: false
 aliases: []
 ---
